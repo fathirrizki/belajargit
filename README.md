@@ -1,2 +1,2 @@
-# coba2
-Repository for my Accounting App project (coba2)
+# welcome to belajargit repository!
+This is the place where Fathir learn about how git works
